@@ -85,7 +85,7 @@ const Login = () => {
     <div>
       <Header />
       <div className="absolute">
-        <img className="h-screen object-cover w-screen"
+        <img className="h-fit object-cover w-screen"
          src={BG_URL} alt="backgroung image" />
       </div>
       <form
